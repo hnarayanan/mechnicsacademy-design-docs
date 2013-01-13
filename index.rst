@@ -8,13 +8,13 @@ for anyone interested in learning mechanics. The project:
 * Serves as a device to attract new learners to a rich and useful
   topic
 
-  * Hands-on simulation to demonstrate application potential and
-    motivate theory
+  * Incorporates hands-on simulation to demonstrate application
+    potential and motivate theory
 
 * Acts as a catalogue of high-quality learning resources for mechanics
 
-  * Catalogue great existing Open Educational Resources
-  * Fill gaps defined by necessary competencies with original course
+  * Catalogues great existing *Open Educational Resources*
+  * Fills gap defined by necessary competencies with original course
     content
 
 * Provides a community of co-learners and mechanics experts to
@@ -42,15 +42,5 @@ In addition, it benefits me personally in the following ways:
   knowledgeable about mechanics and its education
 
 
-Contents:
-
 .. toctree::
    :maxdepth: 2
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
