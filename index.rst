@@ -1,3 +1,26 @@
+::
+
+      Overarching ambition
+               |
+               |
+        Concrete sub-goals
+         |               \
+         |                \
+ Necessary content and desired behaviour
+         |             /      |
+         |            /       |
+ Content architecture         |
+   |              |           |
+   |              |           |
+   |       UX and visual front-end design   <--  How do others do it?
+   |              |
+   |              |
+ Back-end functionality
+         |
+         |
+ Specific implementation
+
+
 What is Mechanics Academy?
 ==========================
 
