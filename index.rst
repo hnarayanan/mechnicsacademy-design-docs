@@ -20,49 +20,45 @@
          |
  Specific implementation
 
+Overarching ambition
+====================
 
-What is Mechanics Academy?
-==========================
+Mechanics Academy aims to be a comprehensive resource for anyone
+interested in learning mechanics.
+
+Concrete sub-goals
+==================
+
+* Attract new learners to a rich and useful topic
+
+* Act as a catalogue of high-quality learning resources for mechanics
+
+* Create an engaged community of co-learners and mechanics experts
+
+* Provide mechanisms to test learning and gauge competency
+
+* Serve as a conduit between a community with certain competency and
+  potential employers
+
+* Provide scientific computing services "on the cloud" for easy access
+  to powerful tools
+
+Necessary content and related architecture
+==========================================
 
 
-At its heart, Mechanics Academy aims to be a comprehensive resource
-for anyone interested in learning mechanics. The project:
 
-* Serves as a device to attract new learners to a rich and useful
-  topic
+  .. * Incorporates hands-on simulation to demonstrate application
+  ..   potential and motivate theory
 
-  * Incorporates hands-on simulation to demonstrate application
-    potential and motivate theory
 
-* Acts as a catalogue of high-quality learning resources for mechanics
 
-  * Catalogues great existing *Open Educational Resources*
-  * Fills gap defined by necessary competencies with original course
-    content
+  .. * Catalogues great existing *Open Educational Resources*
+  .. * Fills gap defined by necessary competencies with original course
+  ..   content
 
-* Provides a community of co-learners and mechanics experts to
-  approach for help while learning
 
-  * Conversely, provides experts experience with mentorship
-
-* Contains mechanisms to test learning and gauge competency
-
-* Acts as a conduit between a community with certain competency and
-  employers who require it
-
-In addition, it benefits me personally in the following ways:
-
-* Serves as a sophisticated web-based service to expand and exercise
-  my web development and design skill-set
-
-* Provides me an opportunity to build and exercise my teaching skills
-
-  * Includes mechanisms for experimentation with different teaching
-    (and learning motivation) methodologies, and uses analytics to
-    refine pedagogy
-
-* Serves as an advertising tool to establish myself as deeply
-  knowledgeable about mechanics and its education
+  .. * Conversely, provides experts experience with mentorship
 
 
 .. toctree::
