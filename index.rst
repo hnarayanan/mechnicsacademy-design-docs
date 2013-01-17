@@ -1,3 +1,7 @@
+******************************************
+Design documentation for Mechanics Academy
+******************************************
+
 ::
 
       Overarching ambition
