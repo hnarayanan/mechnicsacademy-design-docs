@@ -57,33 +57,43 @@ Requisite content and related architecture
 Catalogue of motivating material (SG 1)
 ---------------------------------------
 
-Fun and interesting (existing) open-access media
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Fun and interesting (existing) open-access material
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-=========  ====================================================================
- Content    | 1. Demonstration videos (perhaps parts of lectures)
-            | 2. Videos and visuals of thought-provoking observations in nature
+#. Demonstration videos (including sections of complete lectures)
+#. Videos and visuals of thought-provoking observations in nature
+#. Application-relevant simulations, such as Khan Academy's `Projectile and Orbital Motion Simulations <http://www.khanacademy.org/cs/projectile-and-orbital-motion/1002164118>`_
+
+Original motivating material
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+#. Documented (video) user stories emphasising the importance of the material (e.g. interviews with rock-star scientists)
+#. Demonstrations of research-level problem solving in the real world
+#. Application-relevant simulations that demonstrate the usefulness of scientific computing
+
+..  =========  ====================================================================
+.. Content    | 1. Demonstration videos (including sections of complete lectures)
+..            | 2. Videos and visuals of thought-provoking observations in nature
+..  Meta       Source/author information, description, license
+.. =========  ====================================================================
+
+Motivating simulations related to relevant applications of the theory
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Existing content
+
+=========  =============================================================================================================================
+ Content    Links/embeds to external motivating simulations
  Meta       Source/author information, description, license
-=========  ====================================================================
+ Notes      e.g. `Projectile and orbital motion simulations <http://www.khanacademy.org/cs/projectile-and-orbital-motion/1002164118>`_
+=========  =============================================================================================================================
 
+2. Original content that demonstrates the usefulness of scientific computing
 
-
-#. Simulations related to fun applications of the theory
-
-   1. Existing content
-
-   =========  =============================================================================================================================
-    Content    Links/embeds to external motivating simulations
-    Meta       Source/author information, description, license
-    Notes      e.g. `Projectile and orbital motion simulations <http://www.khanacademy.org/cs/projectile-and-orbital-motion/1002164118>`_
-   =========  =============================================================================================================================
-
-   2. Original content
-
-   =========  ===================================
-    Content    Embedded motivating simulations
-    Meta       Description, motivating questions
-   =========  ===================================
+=========  ===================================
+ Content    Embedded motivating simulations
+ Meta       Description, motivating questions
+=========  ===================================
 
 #. Catalogue of best existing Open Educational Resources
 
