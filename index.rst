@@ -1,6 +1,6 @@
-******************************************
+==========================================
 Design documentation for Mechanics Academy
-******************************************
+==========================================
 
 The following design document begins with a high-level goal and
 follows the following thought process to arrive at a specific
@@ -34,8 +34,8 @@ Overarching ambition
 Mechanics Academy aims to be a comprehensive resource for anyone
 interested in learning mechanics.
 
-Concrete sub-goals
-==================
+Concrete sub-goals (SGs)
+========================
 
 #. Attract new learners to the rich and useful topic of mechanics
 
@@ -54,17 +54,19 @@ Concrete sub-goals
 Requisite content and related architecture
 ==========================================
 
-Catalogue of motivating material
-********************************
+Catalogue of motivating material (SG 1)
+---------------------------------------
 
-#. Cute/interesting existing (open access) demo videos
+Fun and interesting (existing) open-access media
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- Interesting (open access) demo media
+=========  ====================================================================
+ Content    | 1. Demonstration videos (perhaps parts of lectures)
+            | 2. Videos and visuals of thought-provoking observations in nature
+ Meta       Source/author information, description, license
+=========  ====================================================================
 
-   =========  =================================================
-    Content    Demo videos
-    Meta       Source/author information, description, license
-   =========  =================================================
+
 
 #. Simulations related to fun applications of the theory
 
