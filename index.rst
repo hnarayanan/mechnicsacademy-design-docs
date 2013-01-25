@@ -37,7 +37,7 @@ interested in learning mechanics.
 Concrete sub-goals
 ==================
 
-#. Attract new learners to a rich and useful topic
+#. Attract new learners to the rich and useful topic of mechanics
 
 #. Act as a catalogue of high-quality learning resources for mechanics
 
@@ -57,7 +57,9 @@ Requisite content and related architecture
 Catalogue of motivating material
 ********************************
 
-#. Interesting (open access) demo media
+#. Cute/interesting existing (open access) demo videos
+
+ Interesting (open access) demo media
 
    =========  =================================================
     Content    Demo videos
@@ -81,7 +83,7 @@ Catalogue of motivating material
     Meta       Description, motivating questions
    =========  ===================================
 
-  .. # Catalogue of best existing Open Educational Resources
+#. Catalogue of best existing Open Educational Resources
 
   ..   * Complete courses
 
