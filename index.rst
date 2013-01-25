@@ -85,9 +85,11 @@ Fun and interesting (existing) open-access material
 Original motivating material
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Documented (video) user stories emphasising the importance of the material (e.g. interviews with rock-star scientists)
+#. Documented (video) user stories emphasising the importance of the
+   material (e.g. interviews with rock-star scientists)
 #. Demonstrations of research-level problem solving in the real world
-#. Application-relevant simulations that demonstrate the usefulness of scientific computing
+#. Application-relevant simulations that demonstrate the usefulness of
+   scientific computing
 
    =========  ===================================
     Content    Embedded motivating simulations
@@ -100,27 +102,36 @@ Catalogue of high-quality learning resources (SG 2)
 Catalogue of best existing Open Educational Resources
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  ..   * Complete courses
+All the following can be served with rich, user-searchable metadata
+(classification, crowd-sourced ratings and perhaps even a review). In
+addition, consider whether the following need to be embeds or whether
+just a link will suffice.
 
-  ..     * **Content:** Lecture videos, lecture notes,
-  ..     assignments/solutions, exams/solutions
-  ..     * **Meta:** Source/instructor information, syllabus, license,
-  ..     links to related external resources
+#. Complete courses
 
-  ..   * External resources
+   =========  =======================================================================================
+    Content    Embedded lecture videos, lecture notes, assignments/solutions, exams/solutions
+    Meta       Source/instructor information, syllabus, license, links to related external resources
+   =========  =======================================================================================
 
-  ..     * **Content:** Interesting demo media, instructional videos,
-  ..     related notes, tutorials, practice (including simulation-based)
-  ..     exercises
-  ..     * **Meta:** Source/author information, license
 
-  .. # Original, high-quality course content
+#. Independent external resources
 
-  ..   * **Content:**
-  ..   * **Meta:**
-  ..   * **Notes:** This course content should (a) fill obvious gaps in
-  ..   existing material and (b) meet the competency requirements of
-  ..   society/industry.
+   =========  ==================================================================================================================================
+    Content    Embedded Interesting demo media, instructional videos, related notes, tutorials, practice (including simulation-based) exercises
+    Meta       Source/author information, license
+   =========  ==================================================================================================================================
+
+Original course material of high quality
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The following content will be modular and (a) fills obvious gaps in
+existing content and (b) meets the competency needs of society and
+industry.
+
+#. Complete courses
+#. Short tutorials (e.g. Try Ruby)
+#. Other standalone resources (e.g. primer notes)
 
   .. # Community of co-learners, mechanics experts and potential employers
 
