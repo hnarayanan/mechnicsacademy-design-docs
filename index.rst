@@ -61,8 +61,26 @@ Fun and interesting (existing) open-access material
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #. Demonstration videos (including sections of complete lectures)
+
+   =========  ===========================================================
+    Content    Links/embeds to (potentially snippets of) external videos
+    Meta       Source/author information, description, license
+   =========  ===========================================================
+
 #. Videos and visuals of thought-provoking observations in nature
-#. Application-relevant simulations, such as Khan Academy's `Projectile and Orbital Motion Simulations <http://www.khanacademy.org/cs/projectile-and-orbital-motion/1002164118>`_
+
+   =========  ===========================================================
+    Content    Links/embeds to (potentially snippets of) external videos
+    Meta       Source/author information, description, license
+   =========  ===========================================================
+
+#. Application-relevant simulations
+
+   =========  ===========================================================================
+    Content    Links/embeds to external motivating simulations
+    Meta       Source/author information, description, license
+    Notes      e.g. `Projectile and orbital motion simulations <http://bit.ly/14cGrXi>`_
+   =========  ===========================================================================
 
 Original motivating material
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -71,31 +89,16 @@ Original motivating material
 #. Demonstrations of research-level problem solving in the real world
 #. Application-relevant simulations that demonstrate the usefulness of scientific computing
 
-..  =========  ====================================================================
-.. Content    | 1. Demonstration videos (including sections of complete lectures)
-..            | 2. Videos and visuals of thought-provoking observations in nature
-..  Meta       Source/author information, description, license
-.. =========  ====================================================================
+   =========  ===================================
+    Content    Embedded motivating simulations
+    Meta       Description, motivating questions
+   =========  ===================================
 
-Motivating simulations related to relevant applications of the theory
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Catalogue of high-quality learning resources (SG 2)
+---------------------------------------------------
 
-1. Existing content
-
-=========  =============================================================================================================================
- Content    Links/embeds to external motivating simulations
- Meta       Source/author information, description, license
- Notes      e.g. `Projectile and orbital motion simulations <http://www.khanacademy.org/cs/projectile-and-orbital-motion/1002164118>`_
-=========  =============================================================================================================================
-
-2. Original content that demonstrates the usefulness of scientific computing
-
-=========  ===================================
- Content    Embedded motivating simulations
- Meta       Description, motivating questions
-=========  ===================================
-
-#. Catalogue of best existing Open Educational Resources
+Catalogue of best existing Open Educational Resources
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   ..   * Complete courses
 
