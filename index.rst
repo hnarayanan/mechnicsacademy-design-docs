@@ -37,11 +37,11 @@ interested in learning mechanics.
 Concrete sub-goals (SGs)
 ========================
 
-#. Attract new learners to the rich and useful topic of mechanics
+#. Attract learners to the rich and useful topic of mechanics
 
 #. Act as a catalogue of high-quality learning resources for mechanics
 
-#. Create an engaged community of co-learners and mechanics experts
+#. Offer help and support to mechanics learners
 
 #. Provide mechanisms to test learning and gauge competency
 
@@ -54,11 +54,8 @@ Concrete sub-goals (SGs)
 Requisite content and related architecture
 ==========================================
 
-Catalogue of motivating material (SG 1)
----------------------------------------
-
-Fun and interesting (existing) open-access material
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Fun and engaging  open-access motivating material (SG 1)
+--------------------------------------------------------
 
 #. Demonstration videos (including sections of complete lectures)
 
@@ -82,8 +79,8 @@ Fun and interesting (existing) open-access material
     Notes      e.g. `Projectile and orbital motion simulations <http://bit.ly/14cGrXi>`_
    =========  ===========================================================================
 
-Original motivating material
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Original motivating material (SG 1)
+-----------------------------------
 
 #. Documented (video) user stories emphasising the importance of the
    material (e.g. interviews with rock-star scientists)
@@ -96,11 +93,8 @@ Original motivating material
     Meta       Description, motivating questions
    =========  ===================================
 
-Catalogue of high-quality learning resources (SG 2)
----------------------------------------------------
-
-Catalogue of best existing Open Educational Resources
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Catalogue of best existing Open Educational Resources (SG 2)
+------------------------------------------------------------
 
 All the following can be served with rich, user-searchable metadata
 (classification, crowd-sourced ratings and perhaps even a review). In
@@ -114,6 +108,8 @@ just a link will suffice.
     Meta       Source/instructor information, syllabus, license, links to related external resources
    =========  =======================================================================================
 
+.. Think of providing tests/exercises around existing material
+
 
 #. Independent external resources
 
@@ -122,8 +118,8 @@ just a link will suffice.
     Meta       Source/author information, license
    =========  ==================================================================================================================================
 
-Original course material of high quality
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Original course material of high quality (SG 2)
+-----------------------------------------------
 
 The following content will be modular and (a) fills obvious gaps in
 existing content and (b) meets the competency needs of society and
@@ -132,6 +128,12 @@ industry.
 #. Complete courses
 #. Short tutorials (e.g. Try Ruby)
 #. Other standalone resources (e.g. primer notes)
+
+Engaged community of co-learners, mechanics experts and potential employers (SG3, SG5)
+--------------------------------------------------------------------------------------
+
+
+
 
   .. # Community of co-learners, mechanics experts and potential employers
 
