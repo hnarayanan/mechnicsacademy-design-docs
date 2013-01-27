@@ -46,7 +46,7 @@ Concrete sub-goals (SGs)
 #. Provide mechanisms to test learning and gauge competency
 
 #. Serve as a conduit between a community with certain competency and
-   potential employers
+   the industry
 
 #. Provide scientific computing services "on the cloud" for easy
    access to powerful computational mechanics tools
@@ -164,18 +164,17 @@ In browser (including simulation-based) exercises (SG 4)
 #. As part of a university course with ID verification
 #. "Serious," large projects submitted for personal evaluation
 
+Connect strong students who opt-in with interested employers (???) (SG 5)
+-------------------------------------------------------------------------
 
+Market tools potentially useful to the community (???) (SG 5)
+-------------------------------------------------------------
 
+Beautiful web-based interface for select software (???) (SG 6)
+--------------------------------------------------------------
 
-  .. # Conduit between competent community and interested employers
-
-  ..   * Get strong students (who opt-in) in touch with potential employers
-  ..   * Market relevant tools to the community
-
-  .. # Scientific computing services "on the cloud"
-
-  ..   * Elegant interface a la Heroku for git-based pushing of code
-  ..   * Beautiful web interface for specialised code
+Elegant (Heroku-style) interface for scm-based pushing of research code (???) (SG 6)
+------------------------------------------------------------------------------------
 
 .. toctree::
    :maxdepth: 2
