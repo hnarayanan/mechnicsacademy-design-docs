@@ -79,8 +79,8 @@ Fun and engaging  open-access motivating material (SG 1)
     Notes      e.g. `Projectile and orbital motion simulations <http://bit.ly/14cGrXi>`_
    =========  ===========================================================================
 
-Original motivating material (SG 1)
------------------------------------
+Original content to motivate learners (SG 1)
+--------------------------------------------
 
 #. Documented (video) user stories emphasising the importance of the
    material (e.g. interviews with rock-star scientists)
@@ -129,8 +129,8 @@ industry.
 #. Short tutorials (e.g. Try Ruby)
 #. Other standalone resources (e.g. primer notes)
 
-Engaged community of co-learners, mechanics experts and potential employers (SG3, SG5)
---------------------------------------------------------------------------------------
+Engaged community of co-learners, mechanics experts and potential employers (SG 3, 5)
+-------------------------------------------------------------------------------------
 
 
 
