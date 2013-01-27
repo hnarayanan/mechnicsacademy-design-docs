@@ -101,15 +101,14 @@ All the following can be served with rich, user-searchable metadata
 addition, consider whether the following need to be embeds or whether
 just a link will suffice.
 
+.. Think of providing tests/exercises around existing material
+
 #. Complete courses
 
    =========  =======================================================================================
     Content    Embedded lecture videos, lecture notes, assignments/solutions, exams/solutions
     Meta       Source/instructor information, syllabus, license, links to related external resources
    =========  =======================================================================================
-
-.. Think of providing tests/exercises around existing material
-
 
 #. Independent external resources
 
@@ -144,19 +143,29 @@ Mechanisms to get (personalised) help and support (SG 3)
 #. Web conferencing and other forms of direct communication (direct
    messaging) between multiple people.
    e.g. The instructor and a few learners on Google+
-#. *Other technology that fosters collaborative learning (???)*
+#. Other technology that fosters collaborative learning (???)
 #. Ticketing system (which is linked to e-mail)
 #. Easily searchable, meta-data rich knowledge base
 
+In browser (including simulation-based) exercises (SG 4)
+--------------------------------------------------------
+
+.. edX SaaS-style "Test Driven" learning
+
+#. Original short quizzes or exercises to test initial competence
+#. Original short quizzes or exercises on external material
+#. Quizzes or exercises as part of OER catalogue
+#. Short quizzes or exercises in between video lectures
+#. Final exams or exercises
+
+"In-person" proctored examinations (???) (SG 4)
+-----------------------------------------------
+
+#. As part of a university course with ID verification
+#. "Serious," large projects submitted for personal evaluation
 
 
 
-
-
-
-  .. # Mechanisms to evaluate learning and gauge competency
-
-  .. # In-browser (including simulation-based) exercises
 
   .. # Conduit between competent community and interested employers
 
