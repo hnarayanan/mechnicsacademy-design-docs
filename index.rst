@@ -132,10 +132,27 @@ industry.
 Engaged community of co-learners, mechanics experts and potential employers (SG 3, 5)
 -------------------------------------------------------------------------------------
 
+#. Curated discussion forums
+#. Presence on social media
+#. Invited contributions from domain experts
+#. Blog covering topics of interest to the community and meta news
+   about to Mechanics Academy
+
+Mechanisms to get (personalised) help and support (SG 3)
+--------------------------------------------------------
+
+#. Web conferencing and other forms of direct communication (direct
+   messaging) between multiple people.
+   e.g. The instructor and a few learners on Google+
+#. *Other technology that fosters collaborative learning (???)*
+#. Ticketing system (which is linked to e-mail)
+#. Easily searchable, meta-data rich knowledge base
 
 
 
-  .. # Community of co-learners, mechanics experts and potential employers
+
+
+
 
   .. # Mechanisms to evaluate learning and gauge competency
 
