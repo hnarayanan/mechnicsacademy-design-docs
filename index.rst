@@ -8,25 +8,25 @@ implementation that realises this goal.
 
 ::
 
-      Overarching ambition
-               |
-               |
-        Concrete sub-goals
-         |               \
-         |                \
- Requisite content and desired behaviour
-         |             /      |
-         |            /       |
- Content architecture         |
-   |              |           |
-   |              |           |
-   |       UX and visual front-end design   <--  How do others do it?
-   |              |
-   |              |
- Back-end functionality
-         |
-         |
- Specific implementation
+         Overarching ambition
+                  |
+                  |
+          Concrete sub-goals
+           |               \
+           |                \
+   Requisite content  Desired behaviour
+           |             /     |
+           |            /      |
+   Information architecture    |
+     |              |          |
+     |              |          |
+     |      UX and visual front-end design
+     |              |          |
+     |              |          |
+   Back-end functionality      |
+           |                   |
+           |                   |
+          Specific implementation
 
 Overarching ambition
 ====================
