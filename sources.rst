@@ -25,6 +25,8 @@ University OpenCourseWare
 
 #. `CMU Open Learning Initiative <http://oli.cmu.edu/>`_
 
+#. `NPTEL <http://nptel.iitm.ac.in/>`_
+
 
 Non-profit initiatives
 ======================
@@ -73,6 +75,8 @@ Content aggregators
 #. `Open Culture <http://www.openculture.com/>`_
 
 #. `Connexions <http://cnx.org/content/>`_
+
+#. `LearnersTV <http://www.learnerstv.com/>`_
 
 
 Popular science magazines
