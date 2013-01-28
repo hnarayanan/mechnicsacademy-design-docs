@@ -45,8 +45,8 @@ Concrete sub-goals (SGs)
 
 #. Provide mechanisms to test learning and gauge competency
 
-#. Serve as a conduit between a community with certain competency and
-   the industry
+#. Serve as a conduit between a community with mechanics-related
+   competency and the industry
 
 #. Provide scientific computing services "on the cloud" for easy
    access to powerful computational mechanics tools
@@ -68,12 +68,16 @@ Fun and engaging  open-access motivating material (SG 1)
 
 #. Videos and visuals of thought-provoking observations in nature
 
+   .. cssclass:: table-bordered table-hover
+
    =========  ===========================================================
     Content    Links/embeds to (potentially snippets of) external videos
     Meta       Source/author information, description, license
    =========  ===========================================================
 
 #. Application-relevant simulations
+
+   .. cssclass:: table-bordered table-hover
 
    =========  ===========================================================================
     Content    Links/embeds to external motivating simulations
@@ -90,22 +94,26 @@ Original content to motivate learners (SG 1)
 #. Application-relevant simulations that demonstrate the usefulness of
    scientific computing
 
+   .. cssclass:: table-bordered table-hover
+
    =========  ===================================
     Content    Embedded motivating simulations
     Meta       Description, motivating questions
    =========  ===================================
 
-Catalogue of best existing Open Educational Resources (SG 2)
-------------------------------------------------------------
+Catalogue of best existing Open Educational Resources pertinent to mechanics (SG 2)
+-----------------------------------------------------------------------------------
 
 All the following can be served with rich, user-searchable metadata
 (classification, crowd-sourced ratings and perhaps even a review). In
 addition, consider whether the following need to be embeds or whether
 just a link will suffice.
 
-.. note:: Think of providing tests/exercises around existing material
+.. Think of providing tests/exercises around existing material
 
 #. Complete courses
+
+   .. cssclass:: table-bordered table-hover
 
    =========  =======================================================================================
     Content    Embedded lecture videos, lecture notes, assignments/solutions, exams/solutions
@@ -113,6 +121,8 @@ just a link will suffice.
    =========  =======================================================================================
 
 #. Independent external resources
+
+   .. cssclass:: table-bordered table-hover
 
    =========  ==================================================================================================================================
     Content    Embedded Interesting demo media, instructional videos, related notes, tutorials, practice (including simulation-based) exercises
@@ -139,18 +149,21 @@ Engaged community of co-learners, mechanics experts and potential employers (SG 
 #. Blog covering topics of interest to the community and meta news
    about to Mechanics Academy
 
-Mechanisms to get (personalised) help and support (SG 3)
---------------------------------------------------------
+Mechanisms to get help and support (SG 3)
+-----------------------------------------
+
+.. Personalised aspects of these support (e.g. workshops) can be tied
+.. to a revenue stream.
 
 #. Web conferencing and other forms of direct communication (direct
    messaging) between multiple people.
    e.g. The instructor and a few learners on Google+
-#. Other technology that fosters collaborative learning (???)
 #. Ticketing system (which is linked to e-mail)
 #. Easily searchable, meta-data rich knowledge base
+#. Other technology that fosters collaborative learning (???)
 
-In browser (including simulation-based) exercises (SG 4)
---------------------------------------------------------
+In browser exercises, including those based on simulation (SG 4)
+----------------------------------------------------------------
 
 .. edX SaaS-style "Test Driven" learning
 
@@ -160,23 +173,25 @@ In browser (including simulation-based) exercises (SG 4)
 #. Short quizzes or exercises in between video lectures
 #. Final exams or exercises
 
-"In-person" proctored examinations (???) (SG 4)
------------------------------------------------
+Market tools potentially useful to the community (SG 5)
+-------------------------------------------------------
+
+------------------------------------------------------------------------
+
+.. note:: The following ideas need more careful consideration in the
+          future. For now, we do not worry about them.
+
+"In-person" proctored examinations (SG 4)
+-----------------------------------------
 
 #. As part of a university course with ID verification
 #. "Serious," large projects submitted for personal evaluation
 
-Connect strong students who opt-in with interested employers (???) (SG 5)
--------------------------------------------------------------------------
+Connect strong students who opt-in with interested employers (SG 5)
+-------------------------------------------------------------------
 
-Market tools potentially useful to the community (???) (SG 5)
--------------------------------------------------------------
+Beautiful web-based interface for select software (SG 6)
+--------------------------------------------------------
 
-Beautiful web-based interface for select software (???) (SG 6)
---------------------------------------------------------------
-
-Elegant (Heroku-style) interface for scm-based pushing of research code (???) (SG 6)
-------------------------------------------------------------------------------------
-
-.. toctree::
-   :maxdepth: 2
+Heroku-style interface for handling generic research code (SG 6)
+----------------------------------------------------------------
