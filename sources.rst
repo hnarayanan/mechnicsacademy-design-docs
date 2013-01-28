@@ -23,6 +23,8 @@ University OpenCourseWare
 
 #. `Stanford on iTunesU <http://itunes.stanford.edu/>`_
 
+#. `CMU Open Learning Initiative <http://oli.cmu.edu/>`_
+
 
 Non-profit initiatives
 ======================
@@ -53,12 +55,14 @@ Virtual universities
 
 #. `P2PU <https://p2pu.org/en/>`_
 
-#. `University of Reddit` <http://ureddit.com/>
+#. `University of Reddit <http://ureddit.com/>`_
 
 Content aggregators
 ===================
 
 #. `Academic Earth <http://www.academicearth.org/>`_
+
+#. `Class Central <http://www.class-central.com/>`_
 
 #. `OpenLearn <http://www.open.edu/openlearn/>`_
 
@@ -90,7 +94,7 @@ Specific examples
 
 #. `Applications of Finite Math <http://www.udemy.com/math-is-everywhere-applications-of-finite-math/>`_
 
-#. `The fundamental forces of the Universe <https://itunes.apple.com/us/course/fundamental-forces-universe/id548931265>`
+#. `The fundamental forces of the Universe <https://itunes.apple.com/us/course/fundamental-forces-universe/id548931265>`_
 
 #. `Frontiers of biomedical engineering <http://oyc.yale.edu/biomedical-engineering/beng-100>`_
 

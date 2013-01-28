@@ -6,4 +6,4 @@ A complete Index
    :maxdepth: 2
 
    design
-   catalogue
+   sources
