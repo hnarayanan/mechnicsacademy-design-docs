@@ -1,10 +1,10 @@
-==========================================
-Design documentation for Mechanics Academy
-==========================================
+====================
+An attempt at design
+====================
 
-The following design document begins with a high-level goal and
-follows the following thought process to arrive at a specific
-implementation that realises this goal.
+We begin with our overarching ambition for the project and go through
+the following thought process to arrive at a specific implementation
+that realises this ambition.
 
 ::
 
@@ -59,6 +59,8 @@ Fun and engaging  open-access motivating material (SG 1)
 
 #. Demonstration videos (including sections of complete lectures)
 
+   .. cssclass:: table-bordered table-hover
+
    =========  ===========================================================
     Content    Links/embeds to (potentially snippets of) external videos
     Meta       Source/author information, description, license
@@ -101,7 +103,7 @@ All the following can be served with rich, user-searchable metadata
 addition, consider whether the following need to be embeds or whether
 just a link will suffice.
 
-.. Think of providing tests/exercises around existing material
+.. note:: Think of providing tests/exercises around existing material
 
 #. Complete courses
 
