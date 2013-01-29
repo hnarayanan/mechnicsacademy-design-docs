@@ -44,7 +44,6 @@ Modern MOOC Platforms
 
 #. `Coursera <https://www.coursera.org/>`_
 
-
 Commercial companies
 ====================
 
@@ -92,14 +91,3 @@ Open-access journals
 #. `DOAJ <http://www.doaj.org/>`_
 
 #. `Scribd <http://www.scribd.com/>`_
-
-Specific examples
-=================
-
-#. `Applications of Finite Math <http://www.udemy.com/math-is-everywhere-applications-of-finite-math/>`_
-
-#. `The fundamental forces of the Universe <https://itunes.apple.com/us/course/fundamental-forces-universe/id548931265>`_
-
-#. `Frontiers of biomedical engineering <http://oyc.yale.edu/biomedical-engineering/beng-100>`_
-
-#. `Calculus one <https://www.coursera.org/course/calc1>`_
