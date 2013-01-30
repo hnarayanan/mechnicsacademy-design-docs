@@ -197,8 +197,8 @@ Original course material of high quality (SG 2, 4)
 		    * Instructional (e.g. how-to) videos
 		    * Related notes (e.g primers)
 		    * Interactive exercises to augment existing courses
- Presentation    #. Course listings linking to individual course pages
- 		 #. Tutorial listings linking to individual course pages
+ Presentation    #. Course listings linking to individual courses
+ 		 #. Tutorial listings linking to individual tutorials
 		 #. Resources embedded into courses/tutorials
 		 #. Standalone resource listings linking to individual resources
  Metadata        #. Instructor information
@@ -214,23 +214,25 @@ Original course material of high quality (SG 2, 4)
  		 #. Computational biomechanics course
  Ideas		 #. The original material on the site will be modular and
 
- 		    * fills obvious gaps in existing content
-		    * meets the competency needs of industry
+ 		    * Fills obvious gaps in existing content
+		    * Meets the competency needs of industry
 		 #. This material can be classified into `theory, programming and application`_,
  		    as in the examples above
-		 #. Logged in students can have an `overview of progress through the material`_
-		 #. Homework exercises can be worked on by students locally, but tested server-side
+		 #. Logged in students should have an `overview of progress through the material`_
+		 #. Homework exercises can be worked on by students locally, and tested server-side
 		    through a `sequence of automated tests`_
 		 #. Interactive exercises can be `tied to a lesson`_ or `served standalone`_
 		 #. `Try Ruby`_ is a beautiful example of a short, interactive tutorial
 		 #. `Course wikis`_ can help collect information related to the course, and kept
 		    up-to-date by students
 		 #. Not all content needs to `revolve around video`_
-		 #. edX has a particularly clean way to move through `lectures`_ and `exercises`_
-		    as one progresses through a course. So `does Udacity`_.
+		 #. edX has a particularly clean way to move through `lectures`_ and
+		    `interspersed exercises`_ as one progresses through a course. So `does Udacity`_.
 		 #. Having a `discussion thread`_ tied to a lecture video allows students to ask
 		    questions immediately as they're having them
-		 #. Video embeds should allow for full keyboard control of the video
+		 #. Resources relevant to a lecture video should be linked to directly beside the
+		    video
+		 #. Video embeds should allow for full keyboard control of playback
 ==============  ====================================================================================
 
 .. _theory, programming and application: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/listing/mechanicsacademy.png
@@ -240,9 +242,9 @@ Original course material of high quality (SG 2, 4)
 .. _served standalone: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/interactive-exercises/khanacademy.png
 .. _Try Ruby: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/interactive-exercises/codeschool.png
 .. _Course wikis: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/knowledge-base/edx.png
-.. _revolve around video: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/cmuoli.pn
+.. _revolve around video: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/cmuoli.png
 .. _lectures: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/edx-1.png
-.. _exercises: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/edx-2.png
+.. _interspersed exercises: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/edx-2.png
 .. _does Udacity: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/udacity.png
 .. _discussion thread: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/khanacademy.png
 
