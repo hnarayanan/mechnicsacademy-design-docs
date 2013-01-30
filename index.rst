@@ -5,8 +5,6 @@ A complete Index
 .. links to interesting blog posts
 .. wisdemy catalogue and timeline
 .. scikumo_interface houses the new rails app for interactive code input
-.. "What is Mechanics academy?" document *
-
 
 .. meta folder
 
@@ -24,16 +22,25 @@ A complete Index
 ..                                         from Keynote presentations
 
 .. proposals/Notes/Support notes -- Contains relevant quote from student*
+
+
+.. Print the following and keep in notes:
 .. proposals/Simula -- Complete proposal to SSRI and support files*
-.. ~/Work/Writing/Proposals/2012/Norgesuniversitetet -- Complete NUV proposal
-
-
+.. ~/Work/Writing/Proposals/2012/Norgesuniversitetet -- Complete NUV proposal*
+.. "What is Mechanics academy?" document *
 
 .. Blue book
 .. Green (business stuff): PR ideas, Pricing ideas, Business plan, Cost estimates from U.S. designers
 .. Pink (content): Project-based learning design
 .. Blue (design): What works and what doesn't elsewhere, sketches for interactive exercises
 
+.. Grey book
+.. Green (business stuff): Kickstarter idea
+.. Pink (content): Scikumo prototype ideas
+.. Blue (design): Questions (and some answers) related to achieving goals
+.. Yellow (tech): Installing Rails manually
+
+.. Papers catalogued in the folder
 
 .. Useful
 

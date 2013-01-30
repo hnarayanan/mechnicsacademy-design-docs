@@ -94,6 +94,8 @@ Original content to motivate learners (SG 1)
  Content         #. Hands on, application-relevant simulation demos to play with
  		 #. Animations and pictures of simulation results related to realistic application
 		 #. Popular science versions of computational science articles
+
+		    * Invite contributions from domain experts
  		 #. Documented---primarily video---user stories emphasising the importance of the
 		    material, e.g.
 
@@ -262,7 +264,7 @@ Engaged community of co-learners, mechanics experts and potential employers (SG 
                  #. Presence on social media
 		 #. Blog covering topics of interest to the community and meta news about
 		    Mechanics Academy
-		 #. Invited contributions from domain experts
+		 #. Invite contributions from domain experts?
 		 #. Allow people to have beautiful visual profiles (about->codecademy)
  Ideas		 #.
 ==============  =============================================================================
@@ -279,7 +281,7 @@ Other mechanisms to get help and support (SG 3)
    messaging) between multiple people.
    e.g. The instructor and a few learners on Google+
 #. Ticketing system (which is linked to e-mail)
-#. Easily searchable, meta-data rich knowledge base
+#. Easily searchable, meta-data rich knowledge base/FAQ
 #. Other technology that fosters collaborative learning (???)
 
 In browser exercises, including those based on simulation (SG 4)
