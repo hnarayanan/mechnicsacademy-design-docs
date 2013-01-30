@@ -188,8 +188,18 @@ Market tools potentially useful to the community (SG 5)
 Connect strong students who opt-in with interested employers (SG 5)
 -------------------------------------------------------------------
 
+#. Act as a means to demonstrate student capabilities, e.g. published
+   code samples and hosting a cool visual CV with results.
+
+.. The following compute-server (Scikumo) needs to be separate in
+   order to force a clean interface with Mechanics Academy
+
 Beautiful web-based interface for select software (SG 6)
 --------------------------------------------------------
 
 Heroku-style interface for handling generic research code (SG 6)
 ----------------------------------------------------------------
+
+#. Act as a means for reproducible research through the sharing of
+   code in a systematic way
+#. People can share big data across calculations
