@@ -185,7 +185,8 @@ Original course material of high quality (SG 2)
 		    * Lecture slides/notes
 		    * Interactive simulation demos
 		    * Exercises, especially simulation-based
-		 #. Complete tutorials focusing on technical topics, including
+		    * Knowledge-bases/Wikis related to the course
+		 #. Short tutorials focusing on technical topics, including
 
 		    * Interactive simulation demos with simple step-by-step exercises
 		    * Instructional videos
@@ -199,7 +200,7 @@ Original course material of high quality (SG 2)
  Presentation    #. Course listings linking to individual course pages
  		 #. Tutorial listings linking to individual course pages
 		 #. Resources embedded into courses/tutorials
-		 #. Resource listings linking to individual resources
+		 #. Standalone resource listings linking to individual resources
  Metadata        #. Instructor information
                  #. Syllabus
 		 #. Description
@@ -213,9 +214,31 @@ Original course material of high quality (SG 2)
  		 #. Computational biomechanics course
  Ideas		 #. Original courses can be classified into `theory, programming and application`_,
  		    as in the examples above
+		 #. Logged in students can have an `overview of progress through the material`_
+		 #. Homework exercises can be worked on by students locally, but tested server-side
+		    through a `sequence of automated tests`_
+		 #. Interactive exercises can be `tied to a lesson`_ or `served standalone`_
+		 #. `Course wikis`_ can help collect information related to the course, and kept
+		    up-to-date by students
+		 #. Not all content needs to `revolve around video`_
+		 #. edX has a particularly clean way to move through `lectures`_ and `exercises`_
+		    as one progresses through a course. So `does Udacity`_.
+		 #. Having a `discussion thread`_ tied to a lecture video allows students to ask
+		    questions immediately as they're having them
+		 #. Video embeds should allow for full keyboard control of the video
 ==============  ====================================================================================
 
 .. _theory, programming and application: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/listing/mechanicsacademy.png
+.. _overview of progress through the material: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/dashboard/udacity.png
+.. _sequence of automated tests: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/hw/edx.png
+.. _tied to a lesson: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/interactive-exercises/codecademy.png
+.. _served standalone: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/interactive-exercises/khanacademy.png
+.. _Course wikis: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/knowledge-base/edx.png
+.. _revolve around video: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/cmuoli.pn
+.. _lectures: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/edx-1.png
+.. _exercises: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/edx-2.png
+.. _does Udacity: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/udacity.png
+.. _discussion thread: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/khanacademy.png
 
 .. The following content will be modular and (a) fills obvious gaps in
 .. existing content and (b) meets the competency needs of society and
