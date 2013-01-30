@@ -222,6 +222,7 @@ Original course material of high quality (SG 2, 4)
 		 #. Homework exercises can be worked on by students locally, but tested server-side
 		    through a `sequence of automated tests`_
 		 #. Interactive exercises can be `tied to a lesson`_ or `served standalone`_
+		 #. `Try Ruby`_ is a beautiful example of a short, interactive tutorial
 		 #. `Course wikis`_ can help collect information related to the course, and kept
 		    up-to-date by students
 		 #. Not all content needs to `revolve around video`_
@@ -237,6 +238,7 @@ Original course material of high quality (SG 2, 4)
 .. _sequence of automated tests: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/hw/edx.png
 .. _tied to a lesson: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/interactive-exercises/codecademy.png
 .. _served standalone: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/interactive-exercises/khanacademy.png
+.. _Try Ruby: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/interactive-exercises/codeschool.png
 .. _Course wikis: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/knowledge-base/edx.png
 .. _revolve around video: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/cmuoli.pn
 .. _lectures: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/edx-1.png
