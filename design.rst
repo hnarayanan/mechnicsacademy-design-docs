@@ -218,6 +218,8 @@ Original course material of high quality (SG 2, 4)
 		    * Meets the competency needs of industry
 		 #. This material can be classified into `theory, programming and application`_,
  		    as in the examples above
+		 #. `Course overview pages`_ should clearly indicate what is being covered in them,
+		    as well as what their prerequisites are
 		 #. Logged in students should have an `overview of progress through the material`_
 		 #. Homework exercises can be worked on by students locally, and tested server-side
 		    through a `sequence of automated tests`_
@@ -236,6 +238,7 @@ Original course material of high quality (SG 2, 4)
 ==============  ====================================================================================
 
 .. _theory, programming and application: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/listing/mechanicsacademy.png
+.. _Course overview pages:  file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/preview-and-overview/codeschool.png
 .. _overview of progress through the material: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/dashboard/udacity.png
 .. _sequence of automated tests: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/hw/edx.png
 .. _tied to a lesson: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/interactive-exercises/codecademy.png
@@ -249,16 +252,20 @@ Original course material of high quality (SG 2, 4)
 .. _discussion thread: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/khanacademy.png
 
 
-.. . Try Ruby)
-
 Engaged community of co-learners, mechanics experts and potential employers (SG 3, 5)
 -------------------------------------------------------------------------------------
 
-#. Curated discussion forums
-#. Presence on social media
-#. Invited contributions from domain experts
-#. Blog covering topics of interest to the community and meta news
-   about to Mechanics Academy
+.. cssclass:: table-bordered
+
+==============  =============================================================================
+ Content         #. Curated discussion forum
+                 #. Presence on social media
+		 #. Blog covering topics of interest to the community and meta news about
+		    Mechanics Academy
+		 #. Invited contributions from domain experts
+		 #. Allow people to have beautiful visual profiles (about->codecademy)
+ Ideas		 #.
+==============  =============================================================================
 
 Other mechanisms to get help and support (SG 3)
 -----------------------------------------------
