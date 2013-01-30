@@ -60,19 +60,23 @@ Fun and engaging open-access motivating material (SG 1)
 
 .. cssclass:: table-bordered
 
-==============  ==========================================================================
+==============  =============================================================================
  Content         #. Demonstration videos (including portions of complete lectures)
                  #. Videos and pictures of thought-provoking observations in nature
                  #. Popular science articles
-                 #. Hands-on, application-relevant simulation
- Presentation    Links/embeds to (possibly portions of) content
- Meta            Source/author information, description, license
+                 #. Hands-on, application-relevant simulation that demonstrate the
+		    usefulness of scientific computing
+ Presentation    #. Links to/embeds of (possibly portions of) content
+                 #. Complete lists of motivating material?
+ Meta            #. Source/author information
+ 		 #. Description
+		 #. License
  Examples	 #. `Mechanical energy conservation <http://bit.ly/X7ICoc>`_
                  #. `Projectile and orbital motion simulations <http://bit.ly/14cGrXi>`_
- Ideas		 #. Use `About TedEd`_ as a style of marking up embed
+ Ideas		 #. Use the `About TedEd`_-style of marking up an embed to illustrate points
  		 #. Ask a thought-provoking question as in `exercises on TedEd`_
 		 #. Emphasise motivation on home page like `MIT OCW does`_
-==============  ==========================================================================
+==============  =============================================================================
 
 .. _About TedEd: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/about/teded.png
 .. _Exercises on TedEd: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/teded-3.png
@@ -82,18 +86,26 @@ Fun and engaging open-access motivating material (SG 1)
 Original content to motivate learners (SG 1)
 --------------------------------------------
 
-#. Documented (video) user stories emphasising the importance of the
-   material (e.g. interviews with rock-star scientists)
-#. Demonstrations of research-level problem solving in the real world
-#. Application-relevant simulations that demonstrate the usefulness of
-   scientific computing
+.. cssclass:: table-bordered
 
-   .. cssclass:: table-bordered table-hover
+==============  ====================================================================================
+ Content         #. Hands on, application-relevant simulation demos to play with
+ 		 #. Animations and pictures of simulation results related to realistic application
+		 #. Popular science versions of computational science articles
+ 		 #. Documented---primarily video--user stories emphasising the importance of the
+		    material, e.g.
 
-   =========  ===================================
-    Content    Embedded motivating simulations
-    Meta       Description, motivating questions
-   =========  ===================================
+ 		    * Interviews with rock-star scientists
+		    * Showing off tough research-level questions labs are trying to answer
+ Presentation    #. Embeds of (possibly teasers of) content
+                 #. Complete lists of motivating material?
+ Meta            #. Description (e.g. motivating questions)
+ Examples
+ Ideas		 #. Have a prominent interactive demo right on the home page like `Codecademy has`_
+==============  ====================================================================================
+
+.. _Codecademy has: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/home/codecademy.png
+
 
 Catalogue of best existing Open Educational Resources pertinent to mechanics (SG 2)
 -----------------------------------------------------------------------------------
