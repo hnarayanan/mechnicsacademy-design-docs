@@ -60,15 +60,23 @@ Fun and engaging open-access motivating material (SG 1)
 
 .. cssclass:: table-bordered
 
-==============  ==================================================================
- Content         #. Demonstration videos (including sections of complete lectures)
+==============  ==========================================================================
+ Content         #. Demonstration videos (including portions of complete lectures)
                  #. Videos and pictures of thought-provoking observations in nature
                  #. Popular science articles
                  #. Hands-on, application-relevant simulation
- Presentation    Links or embeds to (possibly portions of) content
+ Presentation    Links/embeds to (possibly portions of) content
  Meta            Source/author information, description, license
- Examples	    e.g. `Projectile and orbital motion simulations <http://bit.ly/14cGrXi>`_
-==============  ==================================================================
+ Examples	 #. `Mechanical energy conservation <http://bit.ly/X7ICoc>`_
+                 #. `Projectile and orbital motion simulations <http://bit.ly/14cGrXi>`_
+ Ideas		 #. Use `About TedEd`_ as a style of marking up embed
+ 		 #. Ask a thought-provoking question as in `exercises on TedEd`_
+		 #. Emphasise motivation on home page like `MIT OCW does`_
+==============  ==========================================================================
+
+.. _About TedEd: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/about/teded.png
+.. _Exercises on TedEd: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/teded-3.png
+.. _MIT OCW does: file:////Users/harish/Sites/mechanicsacademy/doc/design/screenshots/home/mitocw.png
 
 
 Original content to motivate learners (SG 1)
