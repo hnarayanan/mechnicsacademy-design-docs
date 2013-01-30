@@ -78,7 +78,7 @@ Notes catalogued in the folder
 
 3. Technology
 
-4. *<Empty>*
+4. ---
 
 5. **Business Stuff: Ideas for generating revenue, competency-based
    courses, fund-raising ideas, ideas for intro video suitable for
@@ -94,6 +94,32 @@ Notes catalogued in the folder
 
 10. Old scratch paper
 
+Interesting files and folders on my hard drive
+==============================================
+
+Complete documents
+------------------
+
+#. `Proposal to the Simula School and support files <file:///Users/harish/Sites/mechanicsacademy/wordpress/meta/proposals/Simula>`_
+#. `Proposal to Norgesuniversitetet <file:///Users/harish/Work/Writing/Proposals/2012/Norgesuniversitetet/>`_
+#. `What is Mechanics Academy? <file:///Users/harish/Sites/mechanicsacademy/wordpress/meta/ideas/notes/what-is-ma.pages>`_
+
+Notable folders
+---------------
+
+#. ``scikumo_interface`` houses the new rails app for interactive code input
+#. In the ``meta`` folder:
+
+   #. ``ideas/code`` contains child theme for custom WordPress lecture type
+   #. ``ideas/graphics`` contains initial logo attempts
+   #. ``ideas/notes`` contains **ideas for business models**, computational biomechanics syllabus plan, domain name choices, **ideas for site sections**, WordPress theme reviews
+   #. ``ideas/prototypes/exercises`` contains **front-end prototype with xtk**
+   #. ``presentations/business-talk-2012`` contains a polished version of the **Simula innovation talk with notes**
+   #. ``presentations/cse-talk-2012`` contains **links and graphics for CSE talk**
+   #. ``presentations/utilites/Extract Notes`` contains an AppleScript to extract notes from Keynote presentations
+   #. ``proposals/Notes/Support notes`` contains a **relevant quote from student**
+
+
 In these offline docs
 =====================
 
@@ -103,29 +129,3 @@ In these offline docs
    design
    sources
    content
-
-
-.. scikumo_interface houses the new rails app for interactive code input
-
-.. meta folder
-
-.. ideas/code -- Contains child theme for custom WordPress lecture type
-.. ideas/graphics -- Contains initial logo attempts
-.. ideas/notes -- Contains ideas for business models*, computational
-..                biomechanics syllabus plan, domain name choices, ideas
-..                for site sections*, WordPress theme reviews
-.. ideas/prototypes/exercises -- Contains front-end prototype with xtk*
-
-.. presentations/business-talk-2012 -- Polished version of Simula innovation
-..                                     talk with notes*
-.. presentations/cse-talk-2012 -- Links and graphics for CSE talk*
-.. presentations/utilites/Extract Notes -- AppleScript to extract notes
-..                                         from Keynote presentations
-
-.. proposals/Notes/Support notes -- Contains relevant quote from student*
-
-
-.. Print the following and keep in notes:
-.. proposals/Simula -- Complete proposal to SSRI and support files*
-.. ~/Work/Writing/Proposals/2012/Norgesuniversitetet -- Complete NUV proposal*
-.. "What is Mechanics academy?" document *
