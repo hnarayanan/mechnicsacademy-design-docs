@@ -57,34 +57,42 @@ Grey book
 1. Business stuff: Kickstarter idea
 
 .. cssclass:: text-error
+
 2. Content: Scikumo prototype ideas
 
 .. cssclass:: text-info
+
 3. Design: Questions (and some answers) related to achieving goals
 
 .. cssclass:: text-warning
+
 4. Tech: Installing Rails manually
 
-.. Papers catalogued in the folder
+Notes catalogued in the folder
+------------------------------
 
-.. Potentially useful
+1. **Content: Ideas for continuum mechanics, biomechanics courses**
 
-.. 01 - Content: Ideas for continuum mechanics, biomechanics courses *
-.. 02 - Architecture and design: Storyboard for different use-cases, early site architecture and UI sketches *
-.. 03 - Technology
-.. 04 -
-.. 05 - Business Stuff: Ideas for generating revenue, competency-based courses, fund-raising ideas, ideas for intro video suitable for KickStarter *
-.. 06 - Current meeting notes
-.. 07 - Current scratch paper
+2. **Architecture and design: Storyboard for different use-cases,
+   early site architecture and UI sketches**
 
-.. Not so useful
+3. Technology
 
-.. 08 - Old meeting notes
-.. 09 - Obsolete todo lists
-.. 10 - Old scratch paper
+4. *<Empty>*
 
+5. **Business Stuff: Ideas for generating revenue, competency-based
+   courses, fund-raising ideas, ideas for intro video suitable for
+   KickStarter**
 
+6. Current meeting notes
 
+7. Current scratch paper
+
+8. Old meeting notes
+
+9. Obsolete todo lists
+
+10. Old scratch paper
 
 In these offline docs
 =====================
