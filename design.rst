@@ -108,8 +108,8 @@ Original content to motivate learners (SG 1)
 .. _Codecademy has: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/home/codecademy.png
 
 
-Catalogue of best existing Open Educational Resources pertinent to mechanics (SG 2)
------------------------------------------------------------------------------------
+Catalogue of best existing Open Educational Resources pertinent to mechanics (SG 2, 4)
+--------------------------------------------------------------------------------------
 
 .. cssclass:: table-bordered
 
@@ -173,8 +173,8 @@ Catalogue of best existing Open Educational Resources pertinent to mechanics (SG
 .. _Academic Earth's embeds: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/academicearth.png
 
 
-Original course material of high quality (SG 2)
------------------------------------------------
+Original course material of high quality (SG 2, 4)
+--------------------------------------------------
 
 .. cssclass:: table-bordered
 
@@ -212,7 +212,11 @@ Original course material of high quality (SG 2)
  Examples	 #. Continuum mechanics course
  		 #. FEniCS tutorial
  		 #. Computational biomechanics course
- Ideas		 #. Original courses can be classified into `theory, programming and application`_,
+ Ideas		 #. The original material on the site will be modular and
+
+ 		    * fills obvious gaps in existing content
+		    * meets the competency needs of industry
+		 #. This material can be classified into `theory, programming and application`_,
  		    as in the examples above
 		 #. Logged in students can have an `overview of progress through the material`_
 		 #. Homework exercises can be worked on by students locally, but tested server-side
@@ -239,10 +243,6 @@ Original course material of high quality (SG 2)
 .. _exercises: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/edx-2.png
 .. _does Udacity: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/udacity.png
 .. _discussion thread: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/khanacademy.png
-
-.. The following content will be modular and (a) fills obvious gaps in
-.. existing content and (b) meets the competency needs of society and
-.. industry.
 
 
 .. . Try Ruby)
