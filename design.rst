@@ -71,13 +71,15 @@ Fun and engaging open-access motivating material (SG 1)
  Metadata        #. Source/author information
  		 #. Description
 		 #. License
- Examples	 #. `Mechanical energy conservation <http://bit.ly/X7ICoc>`_
+ Examples	 #. Numerous demonstration videos on `MIT Tech TV`_
+ 		 #. `Mechanical energy conservation <http://bit.ly/X7ICoc>`_
                  #. `Projectile and orbital motion simulations <http://bit.ly/14cGrXi>`_
  Ideas		 #. Use the `About TedEd`_-style of marking up an embed to illustrate points
  		 #. Ask a thought-provoking question as in `exercises on TedEd`_
 		 #. Emphasise motivation on home page like `MIT OCW does`_
 ==============  =============================================================================
 
+.. _MIT Tech TV: http://techtv.mit.edu/collections/physicsdemos/videos
 .. _About TedEd: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/about/teded.png
 .. _Exercises on TedEd: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/teded-3.png
 .. _MIT OCW does: file:////Users/harish/Sites/mechanicsacademy/doc/design/screenshots/home/mitocw.png
@@ -100,12 +102,10 @@ Original content to motivate learners (SG 1)
  Presentation    #. Embeds of (possibly teasers of) content
                  #. Complete lists of motivating material?
  Metadata        #. Description (e.g. motivating questions)
- Examples
  Ideas		 #. Have a prominent interactive demo right on the home page like `Codecademy has`_
 ==============  ====================================================================================
 
 .. _Codecademy has: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/home/codecademy.png
-
 
 
 Catalogue of best existing Open Educational Resources pertinent to mechanics (SG 2)
@@ -138,11 +138,21 @@ Catalogue of best existing Open Educational Resources pertinent to mechanics (SG
 		 #. Classification
 		 #. Crowd-sourced ratings?
 		 #. Review?
- Examples
+ Examples	 #. MIT OCW's `Classical Mechanics`_ course
+ 		 #. Oxford Podcasts' `Quantum Mechanics`_ course
+ 		 #. Reading list on MIT OCW's `History and Philosophy of Mechanics`_ course
+		 #. Yale OCW's `mechanics lectures`_ as part of introductory physics courses
+		 #. `MATLAB exercises`_ on numerical computation for mechanical engineers
  Ideas		 #. All the embeds above should be served in a way that offers some value over
  		    the original source, e.g. rich metadata search, better visual presentation,
 		    augmented original exercises
 ==============  ====================================================================================
+
+.. _Classical Mechanics: http://ocw.mit.edu/courses/physics/8-01-physics-i-classical-mechanics-fall-1999/
+.. _Quantum Mechanics: http://podcasts.ox.ac.uk/series/quantum-mechanics
+.. _History and Philosophy of Mechanics: http://ocw.mit.edu/courses/special-programs/sp-341-history-and-philosophy-of-mechanics-newtons-principia-mathematica-fall-2011/readings/
+.. _mechanics lectures: http://oyc.yale.edu/physics/phys-200/lecture-1
+.. _MATLAB exercises: http://ocw.mit.edu/courses/mechanical-engineering/2-086-numerical-computation-for-mechanical-engineers-spring-2012/matlab-r-exercises/
 
 
 Original course material of high quality (SG 2)
