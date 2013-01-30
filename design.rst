@@ -55,36 +55,21 @@ Concrete sub-goals (SGs)
 Requisite content and related architecture
 ==========================================
 
-Fun and engaging  open-access motivating material (SG 1)
---------------------------------------------------------
+Fun and engaging open-access motivating material (SG 1)
+-------------------------------------------------------
 
-#. Demonstration videos (including sections of complete lectures)
+.. cssclass:: table-bordered
 
-   .. cssclass:: table-bordered table-hover
+==============  ==================================================================
+ Content         #. Demonstration videos (including sections of complete lectures)
+                 #. Videos and pictures of thought-provoking observations in nature
+                 #. Popular science articles
+                 #. Hands-on, application-relevant simulation
+ Presentation    Links or embeds to (possibly portions of) content
+ Meta            Source/author information, description, license
+ Examples	    e.g. `Projectile and orbital motion simulations <http://bit.ly/14cGrXi>`_
+==============  ==================================================================
 
-   =========  ===========================================================
-    Content    Links/embeds to (potentially snippets of) external videos
-    Meta       Source/author information, description, license
-   =========  ===========================================================
-
-#. Videos and visuals of thought-provoking observations in nature
-
-   .. cssclass:: table-bordered table-hover
-
-   =========  ===========================================================
-    Content    Links/embeds to (potentially snippets of) external videos
-    Meta       Source/author information, description, license
-   =========  ===========================================================
-
-#. Application-relevant simulations
-
-   .. cssclass:: table-bordered table-hover
-
-   =========  ===========================================================================
-    Content    Links/embeds to external motivating simulations
-    Meta       Source/author information, description, license
-    Notes      e.g. `Projectile and orbital motion simulations <http://bit.ly/14cGrXi>`_
-   =========  ===========================================================================
 
 Original content to motivate learners (SG 1)
 --------------------------------------------
@@ -217,4 +202,4 @@ Heroku-style interface for handling generic research code (SG 6)
 
 --------------------------------------------------------------------
 
-.. empty
+.. _
