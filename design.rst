@@ -28,6 +28,7 @@ that realises this ambition.
            |                   |
           Specific implementation
 
+
 Overarching ambition
 ====================
 
@@ -176,14 +177,18 @@ In browser exercises, including those based on simulation (SG 4)
 Market tools potentially useful to the community (SG 5)
 -------------------------------------------------------
 
-.. note:: The following ideas need more careful consideration in the
-          future. For now, we do not worry about them.
+.. The following ideas need more careful consideration in the
+   future. For now, we do not worry about them.
+
+.. cssclass:: muted
 
 "In-person" proctored examinations (SG 4)
 -----------------------------------------
 
 #. As part of a university course with ID verification
 #. "Serious," large projects submitted for personal evaluation
+
+.. cssclass:: muted
 
 Connect strong students who opt-in with interested employers (SG 5)
 -------------------------------------------------------------------
@@ -194,8 +199,12 @@ Connect strong students who opt-in with interested employers (SG 5)
 .. The following compute-server (Scikumo) needs to be separate in
    order to force a clean interface with Mechanics Academy
 
+.. cssclass:: muted
+
 Beautiful web-based interface for select software (SG 6)
 --------------------------------------------------------
+
+.. cssclass:: muted
 
 Heroku-style interface for handling generic research code (SG 6)
 ----------------------------------------------------------------
