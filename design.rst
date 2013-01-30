@@ -145,7 +145,12 @@ Catalogue of best existing Open Educational Resources pertinent to mechanics (SG
 		 #. `MATLAB exercises`_ on numerical computation for mechanical engineers
  Ideas		 #. All the embeds above should be served in a way that offers some value over
  		    the original source, e.g. rich metadata search, better visual presentation,
-		    augmented original exercises
+		    augmented original exercises. They should do more than `Academic Earth's embeds`_.
+
+		 #. Recent/featured courses in the catalogue can be featured on the home page
+		    like `Udacity`_ and `OEDb do`_
+		 #. Course listings can be classified in various ways: `topic`_,
+		    `difficulty level`_, `kinds of media`_, `visually`_, `goal oriented`_
 ==============  ====================================================================================
 
 .. _Classical Mechanics: http://ocw.mit.edu/courses/physics/8-01-physics-i-classical-mechanics-fall-1999/
@@ -153,6 +158,14 @@ Catalogue of best existing Open Educational Resources pertinent to mechanics (SG
 .. _History and Philosophy of Mechanics: http://ocw.mit.edu/courses/special-programs/sp-341-history-and-philosophy-of-mechanics-newtons-principia-mathematica-fall-2011/readings/
 .. _mechanics lectures: http://oyc.yale.edu/physics/phys-200/lecture-1
 .. _MATLAB exercises: http://ocw.mit.edu/courses/mechanical-engineering/2-086-numerical-computation-for-mechanical-engineers-spring-2012/matlab-r-exercises/
+.. _OEDb do: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/home/oedb.png
+.. _Udacity: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/home/udacity.png
+.. _topic: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/listing/teded-1.png
+.. _difficulty level: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/listing/udacity.png
+.. _kinds of media: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/listing/oedb.png
+.. _visually: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/listing/teded-2.png
+.. _goal oriented: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/listing/treehouse-3.png
+.. _Academic Earth's embeds: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/academicearth.png
 
 
 Original course material of high quality (SG 2)
@@ -180,6 +193,8 @@ Mechanisms to get help and support (SG 3)
 
 .. Personalised aspects of these support (e.g. workshops) can be tied
 .. to a revenue stream.
+
+.. Personalised support on OER?
 
 #. Web conferencing and other forms of direct communication (direct
    messaging) between multiple people.
