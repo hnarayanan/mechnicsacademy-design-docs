@@ -180,6 +180,8 @@ Market tools potentially useful to the community (SG 5)
 .. The following ideas need more careful consideration in the
    future. For now, we do not worry about them.
 
+--------------------------------------------------------------------
+
 .. cssclass:: muted
 
 "In-person" proctored examinations (SG 4)
@@ -212,3 +214,7 @@ Heroku-style interface for handling generic research code (SG 6)
 #. Act as a means for reproducible research through the sharing of
    code in a systematic way
 #. People can share big data across calculations
+
+--------------------------------------------------------------------
+
+.. empty
