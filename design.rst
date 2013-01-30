@@ -133,9 +133,12 @@ Catalogue of best existing Open Educational Resources pertinent to mechanics (SG
 		 #. Embeds of complete courses along with related original exercises
  Metadata        #. Source/instructor information
                  #. Syllabus
+		 #. Description
 		 #. License
 		 #. Links to related external resources
-		 #. Classification
+		 #. Topics covered
+		 #. Difficulty level
+		 #. Prerequisites
 		 #. Crowd-sourced ratings?
 		 #. Review?
  Examples	 #. MIT OCW's `Classical Mechanics`_ course
@@ -173,13 +176,53 @@ Catalogue of best existing Open Educational Resources pertinent to mechanics (SG
 Original course material of high quality (SG 2)
 -----------------------------------------------
 
-The following content will be modular and (a) fills obvious gaps in
-existing content and (b) meets the competency needs of society and
-industry.
+.. cssclass:: table-bordered
 
-#. Complete courses
-#. Short tutorials (e.g. Try Ruby)
-#. Other standalone resources (e.g. primer notes)
+==============  ====================================================================================
+ Content	 #. Complete courses, including
+
+		    * Lecture videos
+		    * Lecture slides/notes
+		    * Interactive simulation demos
+		    * Exercises, especially simulation-based
+		 #. Complete tutorials focusing on technical topics, including
+
+		    * Interactive simulation demos with simple step-by-step exercises
+		    * Instructional videos
+		    * Related notes
+		 #. Other independent resources, including
+
+		    * Interesting simulation demos
+		    * Instructional (e.g. how-to) videos
+		    * Related notes (e.g primers)
+		    * Interactive exercises to augment existing courses
+ Presentation    #. Course listings linking to individual course pages
+ 		 #. Tutorial listings linking to individual course pages
+		 #. Resources embedded into courses/tutorials
+		 #. Resource listings linking to individual resources
+ Metadata        #. Instructor information
+                 #. Syllabus
+		 #. Description
+		 #. Links to related external resources
+		 #. Topics covered
+		 #. Difficulty level
+		 #. Prerequisites
+		 #. Crowd-sourced ratings?
+ Examples	 #. Continuum mechanics course
+ 		 #. FEniCS tutorial
+ 		 #. Computational biomechanics course
+ Ideas		 #. Original courses can be classified into `theory, programming and application`_,
+ 		    as in the examples above
+==============  ====================================================================================
+
+.. _theory, programming and application: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/listing/mechanicsacademy.png
+
+.. The following content will be modular and (a) fills obvious gaps in
+.. existing content and (b) meets the competency needs of society and
+.. industry.
+
+
+.. . Try Ruby)
 
 Engaged community of co-learners, mechanics experts and potential employers (SG 3, 5)
 -------------------------------------------------------------------------------------
