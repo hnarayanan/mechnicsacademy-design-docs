@@ -94,7 +94,7 @@ Original content to motivate learners (SG 1)
  Content         #. Hands on, application-relevant simulation demos to play with
  		 #. Animations and pictures of simulation results related to realistic application
 		 #. Popular science versions of computational science articles
- 		 #. Documented---primarily video--user stories emphasising the importance of the
+ 		 #. Documented---primarily video---user stories emphasising the importance of the
 		    material, e.g.
 
  		    * Interviews with rock-star scientists
@@ -143,6 +143,7 @@ Catalogue of best existing Open Educational Resources pertinent to mechanics (SG
  		 #. Reading list on MIT OCW's `History and Philosophy of Mechanics`_ course
 		 #. Yale OCW's `mechanics lectures`_ as part of introductory physics courses
 		 #. `MATLAB exercises`_ on numerical computation for mechanical engineers
+		 #. `Continuum mechanics article`_ on Wikipedia
  Ideas		 #. All the embeds above should be served in a way that offers some value over
  		    the original source, e.g. rich metadata search, better visual presentation,
 		    augmented original exercises. They should do more than `Academic Earth's embeds`_.
@@ -158,6 +159,7 @@ Catalogue of best existing Open Educational Resources pertinent to mechanics (SG
 .. _History and Philosophy of Mechanics: http://ocw.mit.edu/courses/special-programs/sp-341-history-and-philosophy-of-mechanics-newtons-principia-mathematica-fall-2011/readings/
 .. _mechanics lectures: http://oyc.yale.edu/physics/phys-200/lecture-1
 .. _MATLAB exercises: http://ocw.mit.edu/courses/mechanical-engineering/2-086-numerical-computation-for-mechanical-engineers-spring-2012/matlab-r-exercises/
+.. _Continuum mechanics article: http://en.wikipedia.org/wiki/Continuum_mechanics
 .. _OEDb do: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/home/oedb.png
 .. _Udacity: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/home/udacity.png
 .. _topic: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/listing/teded-1.png
@@ -188,8 +190,8 @@ Engaged community of co-learners, mechanics experts and potential employers (SG 
 #. Blog covering topics of interest to the community and meta news
    about to Mechanics Academy
 
-Mechanisms to get help and support (SG 3)
------------------------------------------
+Other mechanisms to get help and support (SG 3)
+-----------------------------------------------
 
 .. Personalised aspects of these support (e.g. workshops) can be tied
 .. to a revenue stream.
