@@ -68,7 +68,7 @@ Fun and engaging open-access motivating material (SG 1)
 		    usefulness of scientific computing
  Presentation    #. Links to/embeds of (possibly portions of) content
                  #. Complete lists of motivating material?
- Meta            #. Source/author information
+ Metadata        #. Source/author information
  		 #. Description
 		 #. License
  Examples	 #. `Mechanical energy conservation <http://bit.ly/X7ICoc>`_
@@ -99,7 +99,7 @@ Original content to motivate learners (SG 1)
 		    * Showing off tough research-level questions labs are trying to answer
  Presentation    #. Embeds of (possibly teasers of) content
                  #. Complete lists of motivating material?
- Meta            #. Description (e.g. motivating questions)
+ Metadata        #. Description (e.g. motivating questions)
  Examples
  Ideas		 #. Have a prominent interactive demo right on the home page like `Codecademy has`_
 ==============  ====================================================================================
@@ -107,33 +107,43 @@ Original content to motivate learners (SG 1)
 .. _Codecademy has: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/home/codecademy.png
 
 
+
 Catalogue of best existing Open Educational Resources pertinent to mechanics (SG 2)
 -----------------------------------------------------------------------------------
 
-All the following can be served with rich, user-searchable metadata
-(classification, crowd-sourced ratings and perhaps even a review). In
-addition, consider whether the following need to be embeds or whether
-just a link will suffice.
+.. cssclass:: table-bordered
 
-.. Think of providing tests/exercises around existing material
+==============  ====================================================================================
+ Content	 #. Complete courses, including
 
-#. Complete courses
+		    * Lecture videos
+		    * Lecture notes
+		    * Assignments/solutions
+		    * Exams/solutions
+ 		 #. Independent external resources, such as
 
-   .. cssclass:: table-bordered table-hover
+		    * Interesting demo media
+		    * Instructional videos
+		    * Related notes
+		    * Tutorials
+		    * Practice (including simulation-based) exercises
+		 #. Original tests and exercises to augment existing courses
+ Presentation    #. List of links to complete courses and external resources
+ 		 #. Embeds of complete courses and related external resources
+		 #. Embeds of complete courses along with related original exercises
+ Metadata        #. Source/instructor information
+                 #. Syllabus
+		 #. License
+		 #. Links to related external resources
+		 #. Classification
+		 #. Crowd-sourced ratings?
+		 #. Review?
+ Examples
+ Ideas		 #. All the embeds above should be served in a way that offers some value over
+ 		    the original source, e.g. rich metadata search, better visual presentation,
+		    augmented original exercises
+==============  ====================================================================================
 
-   =========  =======================================================================================
-    Content    Embedded lecture videos, lecture notes, assignments/solutions, exams/solutions
-    Meta       Source/instructor information, syllabus, license, links to related external resources
-   =========  =======================================================================================
-
-#. Independent external resources
-
-   .. cssclass:: table-bordered table-hover
-
-   =========  ==================================================================================================================================
-    Content    Embedded Interesting demo media, instructional videos, related notes, tutorials, practice (including simulation-based) exercises
-    Meta       Source/author information, license
-   =========  ==================================================================================================================================
 
 Original course material of high quality (SG 2)
 -----------------------------------------------
