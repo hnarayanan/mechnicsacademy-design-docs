@@ -152,11 +152,23 @@ Catalogue of best existing Open Educational Resources pertinent to mechanics (SG
  Ideas		 #. All the embeds above should be served in a way that offers some value over
  		    the original source, e.g. rich metadata search, better visual presentation,
 		    augmented original exercises. They should do more than `Academic Earth's embeds`_.
-
 		 #. Recent/featured courses in the catalogue can be featured on the home page
 		    like `Udacity`_ and `OEDb do`_
 		 #. Course listings can be classified in various ways: `topic`_,
 		    `difficulty level`_, `kinds of media`_, `visually`_, `goal oriented`_
+		 #. Consider simple JS exercises like Khan Academy. e.g., what would it take for
+                    the pendulum to hit Lewin?
+		 #. Allow for easily jumping to different sections of a long lecture based on
+		    concepts or topics `like they do at OYC`_
+		 #. Full, persistent keyboard control of pauses, skip forward/backwards 30 s or so.
+		 #. Ability to mark areas of interesting content (videos/other), and collect all
+		    these highlights into one place, such as the dashboard
+		 #. Exercises should be well-integrated with the rest of the content, but students
+		    who want to should be able to skip them
+		 #. Some advanced exercises should prompt students to explore further
+		 #. Related external material should be accessible right there and then alongside
+		    the lectures, `as on OYC`_
+
 ==============  ====================================================================================
 
 .. _Classical Mechanics: http://ocw.mit.edu/courses/physics/8-01-physics-i-classical-mechanics-fall-1999/
@@ -173,7 +185,8 @@ Catalogue of best existing Open Educational Resources pertinent to mechanics (SG
 .. _visually: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/listing/teded-2.png
 .. _goal oriented: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/listing/treehouse-3.png
 .. _Academic Earth's embeds: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/academicearth.png
-
+.. _like they do at OYC: http://oyc.yale.edu/physics/phys-200/lecture-1
+.. _as on OYC:  file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/lectures-and-exercises/oyc-2.png
 
 Original course material of high quality (SG 2, 4)
 --------------------------------------------------
@@ -236,7 +249,6 @@ Original course material of high quality (SG 2, 4)
 		    questions immediately as they're having them
 		 #. Resources relevant to a lecture video should be linked to directly beside the
 		    video
-		 #. Video embeds should allow for full keyboard control of playback
 ==============  ====================================================================================
 
 .. _theory, programming and application: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/courses/listing/mechanicsacademy.png
