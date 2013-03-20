@@ -33,18 +33,24 @@ Overarching ambition
 ====================
 
 Mechanics Academy aims to be a comprehensive resource for anyone
-interested in learning mechanics.
+interested in learning modern applied mechanics (which is an exciting
+blend of applied mathematics, mechanics theory, material science and
+scientific computing). It is in particular aimed at university level
+students and industry professionals.
 
 Concrete sub-goals (SGs)
 ========================
 
-#. Attract learners to the rich and useful topic of mechanics
+0. Increase awareness about and grow the resource
 
-#. Act as a catalogue of high-quality learning resources for mechanics
+#. Attract learners to these rich and useful topics
 
-#. Offer help and support to mechanics learners
+#. Act as a catalogue of high-quality learning resources for these
+   topics
 
-#. Provide mechanisms to test learning and gauge competency
+#. Offer help and support to learners
+
+#. Provide mechanisms to test their learning and gauge competency
 
 #. Serve as a conduit between a community with mechanics-related
    competency and the industry
@@ -52,8 +58,8 @@ Concrete sub-goals (SGs)
 #. Provide scientific computing services "on the cloud" for easy
    access to powerful computational mechanics tools
 
-Requisite content and related architecture
-==========================================
+Requisite content and related information architecture
+======================================================
 
 Fun and engaging open-access motivating material (SG 1)
 -------------------------------------------------------
@@ -110,8 +116,8 @@ Original content to motivate learners (SG 1)
 .. _Codecademy has: file:///Users/harish/Sites/mechanicsacademy/doc/design/screenshots/home/codecademy.png
 
 
-Catalogue of best existing Open Educational Resources pertinent to mechanics (SG 2, 4)
---------------------------------------------------------------------------------------
+Curated catalogue of best existing Open Educational Resources pertinent to mechanics (SG 2, 4)
+----------------------------------------------------------------------------------------------
 
 .. cssclass:: table-bordered
 

@@ -129,3 +129,4 @@ In these offline docs
    design
    sources
    content
+   pages
